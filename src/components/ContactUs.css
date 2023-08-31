@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+
+  .container h2{
+    align-items: center;
+  }
+  
+  .user-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 20px;
+  }
+  
+  .user-info {
+    text-align: center;
+  }
+  .user-info .Iconbtn:hover {
+    color: black;
+  }
+  
+  .social-links {
+    margin-top: 16px;
+  }
+  

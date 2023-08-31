@@ -1,0 +1,36 @@
+{
+    "aboutus": [
+        {
+            "id": "1",
+            "title": "Codeweb",
+            "image": "#",
+            "about": "Immerse yourself in code at our dynamic coding camp! Explore diverse programming domains through specialized clubs: from web development to Python specilization. Engage with expert mentors, collaborate on projects, and ignite your passion for coding. Unleash your potential and shape your future in the world of programming."
+        },
+        {
+            "id": "2",
+            "title": "Code Clan",
+            "image": "#",
+            "about": "Join the elite ranks of the Code Clan at our coding camp. Sharpen your algorithmic skills and strategic thinking through intense coding battles. From data structures to coding challenges, immerse yourself in a competitive yet collaborative environment. Elevate your coding prowess and conquer the world of competitive programming with Code Clan"
+
+        },
+        {
+            "id": "3",
+            "title": "DevX Clan",
+            "image": "#",
+            "about": "Dive into the world of web development with DevX Clan at our coding camp. From frontend design using HTML/CSS to backend mastery with JavaScript and databases, craft interactive and dynamic websites. Join a community of aspiring developers, learn through hands-on projects, and shape the digital landscape with DevX Clan."
+        },
+        {
+            "id": "4",
+            "title": "Python Hunters",
+            "image": "#",
+            "about": "Embark on a journey of coding exploration with Python Hunters at our camp. Delve into the versatility of Python - from automation and data analysis to AI applications. Join fellow enthusiasts, unravel the language's potential, and master the art of pythonic programming. Unleash innovation and stalk success with Python Hunters."
+        },
+        {
+            "id": "5",
+            "title": "Open Source Club",
+            "image": "#",
+            "about": "Join the Open Source Club at our camp to pioneer collaborative innovation. Explore the world of open source technology, contribute to impactful projects, and cultivate a global coding community. From GitHub to community-driven development, harness the power of shared knowledge and propel the future of tech with the Open Source Club."
+        }
+
+    ]
+}
